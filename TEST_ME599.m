@@ -1,7 +1,10 @@
 clear all;
 close all;
 % Flea jumping motion simulation
-% Author: Shao-An,Yin
+% Final Project in ME599 k Biology Inspired Control
+% Author: Shao-An,Yin,NOV2017
+% This is a test version
+
 global DT  P Lp L th0 TFINAL
 TFINAL = 0.5; % time duration of simulation
 PLOT = 1; % whether to plot trajectory results
